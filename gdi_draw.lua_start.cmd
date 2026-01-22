@@ -1,1 +1,1 @@
-luajit gdi_draw.lua
+start luajitw gdi_draw.lua
